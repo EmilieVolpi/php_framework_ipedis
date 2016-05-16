@@ -1,0 +1,4 @@
+db: frameworkipedis
+host: localhost
+login: root
+pass: root
